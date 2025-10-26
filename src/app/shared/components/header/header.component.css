@@ -1,0 +1,9 @@
+.nav {
+  background: linear-gradient(to right, rgb(67, 9, 9), rgb(42, 4, 4));
+}
+h2 {
+  text-decoration: none;
+}
+.links li {
+  cursor: pointer;
+}

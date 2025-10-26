@@ -1,0 +1,41 @@
+
+.card h5 {
+  font-size: 25px;
+  color: #2a2f3b;
+  font-family: "Edu VIC WA NT Hand", cursive;
+}
+.card p {
+  font-size: 15px;
+  color: #2b2b2b;
+}
+.card img {
+  cursor: pointer;
+  transition: 0.5s;
+}
+
+.card img:hover {
+  transform: scale(1.1);
+}
+.card h6 {
+  background-color: #898b93;
+  width: 100%;
+  padding: 10px;
+}
+.card .card-text {
+  font-size: 13px;
+  padding: 5px;
+  color: #1c1a1a;
+  margin-top: 10px;
+}
+.card .card-footer {
+  display: flex;
+  justify-content: space-between;
+  text-align: center;
+  width: 100%;
+  height: fit-content;
+}
+.card {
+  border-color: #1c1a1a;
+  border-width: 1px;
+
+}
